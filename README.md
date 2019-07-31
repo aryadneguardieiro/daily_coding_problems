@@ -1,2 +1,2 @@
 # daily_coding_problems
-My solutions to the coding problems sent from Daily Coding Problem (https://www.dailycodingproblem.com/)
+My solutions, using python3, to the coding problems kindly sent by Daily Coding Problem (https://www.dailycodingproblem.com/).
